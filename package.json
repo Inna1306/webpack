@@ -1,0 +1,24 @@
+{
+  "name": "modules_webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Inna1306/webpack"
+  },
+  "author": "Inna Solovtseva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Inna1306/webpack/issues"
+  },
+  "homepage": "https://github.com/Inna1306/webpack#readme",
+  "devDependencies": {
+    "webpack": "^5.103.0",
+    "webpack-cli": "^6.0.1"
+  }
+}
